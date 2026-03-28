@@ -48,7 +48,7 @@ PATIENT_PROMPTS = {
 }
 
 # 3. UI Setup
-st.set_page_config(page_title="JUST SCOME: Medical Sim", page_icon="🩺", layout="centered")
+st.set_page_config(page_title="JUST: Medical Sim", page_icon="🩺", layout="centered")
 st.title("🩺 Clinical History Simulator")
 
 # Sidebar Configuration
